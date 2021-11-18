@@ -1,1 +1,1 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+Tengo algunos conocimientos básicos de **Python** y actualmente mi desempeño utilizando **Git** y **GitHub** ha mejorado logrando comprender e implementar el _flujo de trabajo básico_ y el uso de *ramas* para el desarrollo de software.  
