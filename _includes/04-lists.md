@@ -1,1 +1,7 @@
-Replace this with a list of your favorite things.
+* Videojuegos
+* Libros
+  - El retrato de Dorian Gray
+  - El arte de la guerra
+  - IT
+* Series y películas
+* Python
